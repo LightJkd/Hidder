@@ -5,8 +5,8 @@ This program (written in C++) allows you to hide any application from the taskba
 
 ## ⚡ Features
 
-Allows you to hide the window
-Allows you to show the program
+Allows you to hide,
+show the window from the taskbar
 
 ## ❓ How do use it?
 
